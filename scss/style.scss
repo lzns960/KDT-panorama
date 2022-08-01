@@ -52,6 +52,9 @@ body {
             animation: panorama linear 30s infinite;
             transform-style: preserve-3d;
 
+            &:hover {
+                animation-play-state: paused;
+            }
         }
 
         article {
