@@ -2,7 +2,7 @@
 
 **📍배포 주소**
 
-[https://kdt-harryp-page.netlify.app/](https://kdt-harryp-page.netlify.app/)
+https://kdt-panorama-starsign.netlify.app/
 
 🛠 **스킬 및 사용툴**
 
